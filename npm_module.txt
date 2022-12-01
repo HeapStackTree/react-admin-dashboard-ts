@@ -1,0 +1,14 @@
+npx create-react-app react-admin-dashboard-ts --template typescript
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/x-data-grid
+npm install @mui/icons-material
+
+npm install react-router-dom@6
+npm install react-pro-sidebar
+npm install formik
+npm install yup
+npm i fullcalendar
+npm i @fullcalendar/react
+npm i @nivo/core 
+npm i @nivo/bar @nivo/line @nivo/pie @nivo/geo
